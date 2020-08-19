@@ -7,14 +7,9 @@ import {
   CHeaderNav,
   CHeaderNavItem,
   CHeaderNavLink,
-  CSubheader,
-  CBreadcrumbRouter,
-  CLink,
 } from "@coreui/react";
 import CIcon from "@coreui/icons-react";
 
-// routes config
-import routes from "../routes";
 
 import { TheHeaderDropdown } from "./index";
 
